@@ -1,0 +1,9 @@
+# venv
+Lib
+Scripts
+Include
+pyvenv.cfg
+.idea
+
+# python temp
+__pycache__
